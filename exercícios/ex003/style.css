@@ -1,0 +1,29 @@
+
+main{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #302744d7;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+body{
+    background-color: blueviolet;
+}
+h1{
+    color: rgba(208, 60, 60, 0.834);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+p{
+    font-size: 20px;
+}
+a {
+    display: block; 
+    width: 160px;
+    height: 20px;
+    line-height: 10px;
+    padding: 10px 5px;
+    margin: 20px;
+}
